@@ -1,0 +1,11 @@
+Done:
+Understood the basic requirement of the Prob
+Created a git repo
+- dev brnach is also created 
+
+Google form for data colelction is prepared.
+Link: https://forms.gle/weQDNq2p58wLYFpaA
+
+
+Things to Do:
+1. create the Google form required to collect data
